@@ -1,0 +1,24 @@
+body {background-image: url(https://watv.org/wp-content/uploads/2022/03/that-opens-the-gates-of-heaven.jpg);
+font-family: sans-serif;
+  padding: 40px;
+}
+
+h1 {font-size: 200px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+h1, p {text-align: center;
+}
+
+.what { width: 20%;
+  background-color: blue;
+  margin-left: left;
+  margin-right: left;
+  margin-top: 200px;
+  margin-bottom: 400px;
+  padding: 20px;
+  max-width: 500px;
+  height: 900px;
+}
+
