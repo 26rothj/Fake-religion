@@ -29,9 +29,9 @@ h2 {
   background-color: blue;
   margin-left: right;
   margin-right: right;
-  margin-top: 200px;
-  margin-bottom: 400px;
-  padding: 20px;
+  margin-top: -200px;
+  margin-bottom: -400px;
+  padding: -20px;
   max-width: 500px;
   height: 900px;
 }
