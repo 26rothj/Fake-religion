@@ -10,6 +10,10 @@ h1 {font-size: 200px;
 
 h1, p {text-align: center;
 }
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
 
 .what { width: 20%;
   background-color: blue;
