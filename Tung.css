@@ -30,6 +30,7 @@ h2 {
 }
 
 .something { width: 20%;
+  position: absolute;
   background-color: blue;
   margin-left: right;
   margin-right: right;
