@@ -23,7 +23,7 @@ h2 {
   margin-left: left;
   margin-right: auto;
   margin-top: -200px;
-  margin-bottom: 400px;
+  margin-bottom: -400px;
   padding: 20px;
   max-width: 500px;
   height: 900px;
@@ -35,7 +35,7 @@ h2 {
   margin-right: auto;
   margin-top: 200px;
   margin-bottom: 400px;
-  padding: -20px;
+  padding: 20px;
   max-width: 500px;
   height: 900px;
 }
