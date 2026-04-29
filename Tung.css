@@ -32,7 +32,7 @@ h2 {
 .something { width: 20%;
   background-color: blue;
   margin-left: right;
-  margin-right: right;
+  margin-right: auto;
   margin-top: 200px;
   margin-bottom: 400px;
   padding: 20px;
