@@ -19,6 +19,8 @@ h2 {
 }
 
 .what { width: 20%;
+        position: absolute;
+  top: 50px;
   background-color: blue;
   margin-left: left;
   margin-right: auto;
