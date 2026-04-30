@@ -19,11 +19,9 @@ h2 {
 }
 
 .what { width: 20%;
-        position: fixed;
-  top: 50px;
   background-color: blue;
   margin-left: left;
-  margin-right: auto;
+  margin-right: left;
   margin-top: 200px;
   margin-bottom: 400px;
   padding: 20px;
@@ -31,15 +29,6 @@ h2 {
   height: 900px;
 }
 
-.something { width: 20%;
-  background-color: blue;
-  margin-left: right;
-  margin-right: auto;
-  margin-top: 200px;
-  margin-bottom: 400px;
-  padding: 20px;
-  max-width: 500px;
-  height: 900px;
-}
+
 
 
