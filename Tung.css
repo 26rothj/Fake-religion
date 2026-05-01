@@ -24,6 +24,7 @@ h2 {
 
 .what { width: 20%;
        float: right;
+       position: fixed 0px 0px;
   background-color: blue;
   margin-left: left;
   margin-right: left;
@@ -35,6 +36,7 @@ h2 {
 }
 .why { width: 20%;
       float: right;
+      position: fixed 0px 0px;
   background-color: blue;
   margin-left: right;
   margin-right: right;
