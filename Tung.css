@@ -18,6 +18,10 @@ h2 {
 
 }
 
+.welcome { position: top;
+          text-align: center;
+         }
+
 .what { width: 20%;
   float: left;
   position: fixed 0px 0px;
