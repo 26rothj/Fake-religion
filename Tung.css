@@ -23,7 +23,7 @@ h2 {
          }
 
 .what { width: 20%;
-  float: left;
+  
   position: fixed 0px 0px;
   background-color: blue;
   margin-left: left;
@@ -35,7 +35,7 @@ h2 {
   height: 900px;
 }
 .why { width: 20%;
-  float: left;
+ 
   position: fixed 0px 0px;
   background-color: blue;
   margin-left: right;
