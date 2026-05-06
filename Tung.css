@@ -32,12 +32,12 @@ h2 {
   margin-bottom: 400px;
   padding: 20px;
   max-width: 500px;
-  height: 200px;
+  height: 700px;
 }
 
 .why { width: 20%;
       float: right;
-      position: fixed 100px 0px;
+      position: fixed 0px 0px;
   background-color: blue;
   margin-left: right;
   margin-right: right;
