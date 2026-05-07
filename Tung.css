@@ -63,6 +63,12 @@ ul {
   list-style-position: inside;
 }
 
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
 
 
 
