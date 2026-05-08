@@ -65,11 +65,7 @@ ul {
 
 .tuntung {
    display: block;
-  place-items: center;
-  height: 100vh;
-   width: auto;
-   height: 500px;
-   transform: scale(0.5);
+   margin: auto
 }
 
 
