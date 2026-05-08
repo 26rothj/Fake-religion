@@ -63,8 +63,10 @@ ul {
   list-style-position: inside;
 }
 
-img {
+.tuntung {
    text-align: center;
+   width: auto;
+   height: 200px;
 }
 
 
