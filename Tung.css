@@ -85,7 +85,7 @@ ul {
       width: 300px;
   height: 300px;
   object-fit: cover;
-  margin-left: auto;
+  margin-left: 100;
   margin-right: auto;
 }
       
@@ -93,7 +93,7 @@ ul {
       width: 300px;
   height: 300px;
   object-fit: cover;
-  margin-left: auto;
+  margin-left: 100;
   margin-right: auto;
 }
       
