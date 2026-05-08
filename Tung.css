@@ -79,6 +79,15 @@ ul {
        text-align: center;
        margin-left: auto;
        margin-right: auto;
+}
+
+.chief {
+       margin-top: 100px;
+   margin-left: auto;
+   margin-right: auto;
+       display: block;
+   width: autopx;
+   height: 600px;
       
 
 
